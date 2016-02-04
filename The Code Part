@@ -1,0 +1,9 @@
+public static void main String[args]{
+	public void hello_world(){
+		System.out.println("hello world");
+
+}
+
+}
+
+hello_world()
